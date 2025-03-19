@@ -10,7 +10,7 @@ A gravity simulator demo in 2D using WebGL and WASM.
 
 # DEMO
 
-[https://mdox.xyz/misc-pages/atoms-webgl-wasm/index.html](https://mdox.xyz/misc-pages/atoms-webgl-wasm/index.html)
+[https://mdox.github.io/atoms-webgl-wasm/demo/](https://mdox.github.io/atoms-webgl-wasm/demo/)
 
 # LICENSE
 
